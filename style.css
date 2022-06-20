@@ -1,0 +1,106 @@
+.body {
+    background-color: #1b161d;
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 20px;
+}
+
+#nav-custom {
+    background-color:  #6f6d6d0a;
+}
+
+#custom-a {
+    color: white;
+    font-size: 23px;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+.title {
+    display: table;
+    margin: 0 auto;
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 80px;
+    background: linear-gradient(330deg, #e05252 0%, #99e052 25%, #52e0e0 50%, #9952e0 75%, #e05252 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    line-height: 200px;
+}
+
+#def {
+    color: white;
+    text-align: justify;
+}
+
+
+.img {
+    width: 70%;
+    margin-left: 30px;
+}
+
+.img2 {
+    width: 60%;
+    margin-left: 60px;
+}
+
+.img3 {
+    width: 60%;
+    margin-left: 30px;
+}
+
+.img4 {
+    width: 100%;
+    padding-top: 35px;
+}
+
+.img5 {
+    width: 80%;
+    margin-left: 30px;
+}
+
+.img6 {
+    width: 90%;
+    padding-bottom: 20px;
+}
+
+#custom-row {
+    padding: 1rem;
+    color: white;
+    border-width: 3px;
+    border-style: solid;
+    border-image: 
+    linear-gradient(
+      to bottom, 
+      red, 
+      rgba(0, 0, 0, 0)
+    ) 1 100%;
+}
+
+span {
+    font-weight: bold;
+    font-size: 25px;
+
+}
+
+#custom-con {
+    margin-left: 50px;
+}
+
+#custom-col2 {
+    margin-left: 5px;
+}
+
+.js-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+#footer {
+    background-color: #52e0e0;
+    margin-top: 20px;
+}
+
+#custom-foot {
+    background-color:  #6f6d6d0a;
+    font-family: 'Signika Negative', sans-serif;
+}
